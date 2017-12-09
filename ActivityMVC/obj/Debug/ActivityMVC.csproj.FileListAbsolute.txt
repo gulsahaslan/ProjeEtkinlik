@@ -1,0 +1,144 @@
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\ApplicationInsights.config
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\csc.exe
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\vbc.exe
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\ActivityMVC.dll.config
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\ActivityMVC.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\ActivityMVC.pdb
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\EntityFramework.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\EntityFramework.SqlServer.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.Web.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Helpers.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Mvc.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Razor.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.Deployment.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.Razor.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\EntityFramework.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\EntityFramework.SqlServer.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.Web.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Razor.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.Deployment.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.Razor.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Helpers.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Mvc.xml
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.csprojResolveAssemblyReference.cache
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.dll
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.pdb
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.Migrations.g1.resources
+c:\users\samsung bilgisayar\documents\visual studio 2015\Projects\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.csproj.GenerateResource.Cache
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\ApplicationInsights.config
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\ActivityMVC.dll.config
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\ActivityMVC.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\ActivityMVC.pdb
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Helpers.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Mvc.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Razor.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Razor.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Helpers.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Web.Mvc.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.pdb
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\csc.exe.config
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\csc.rsp
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\csi.exe
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\csi.exe.config
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\csi.rsp
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Console.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\vbc.exe.config
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\roslyn\vbc.rsp
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.Migrations.dsfs.resources
+C:\Users\Wissen\Desktop\MVCBitirme-Activity\ActivityMVC\obj\Debug\ActivityMVC.csproj.GenerateResource.Cache
